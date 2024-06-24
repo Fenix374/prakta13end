@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Video Games",
+      "name": "God of War: Ragnarok",
+      "platform": "PS5",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/6/6e/God_of_War-_Ragnar%C3%B6k.jpg",
+      "price": 59.99,
+      "description": "Join Kratos and Atreus on a new journey in God of War: Ragnarok, an action-adventure game set in Norse mythology."
+    },
+    {
+      "id": 2,
+      "category": "Video Games",
+      "name": "Halo Infinite",
+      "platform": "Xbox",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/d/d6/Halo_infinite_cover.png/274px-Halo_infinite_cover.png",
+      "price": 59.99,
+      "description": "Experience the next chapter in the Halo saga with Halo Infinite, a first-person shooter game featuring new characters and locations."
+    },
+    {
+      "id": 3,
+      "category": "Video Games",
+      "name": "Cyberpunk 2077",
+      "platform": "PC",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B8%D0%B3%D1%80%D1%8B_Cyberpunk_2077.jpg",
+      "price": 59.99,
+      "description": "Explore Night City, a dark and dangerous open-world in Cyberpunk 2077, an action-adventure RPG set in a futuristic dystopia."
+    },
+    {
+      "id": 4,
+      "category": "Video Games",
+      "name": "Ghost of Tsushima",
+      "platform": "PS4",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
+      "price": 39.99,
+      "description": "Join Jin Sakai on a journey of vengeance and redemption in Ghost of Tsushima, an action-adventure game set in feudal Japan."
+    },
+    {
+      "id": 5,
+      "category": "Video Games",
+      "name": "Forza Horizon 5",
+      "platform": "Xbox One",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/5/58/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Forza_Horizon_5.jpg",
+      "price": 59.99,
+      "description": "Discover the beauty and danger of Mexico in Forza Horizon 5, an open-world racing game featuring hundreds of cars and tracks."
+    },
+    {
+      "id": 6,
+      "category": "Video Games",
+      "name": "Red Dead Redemption 2",
+      "platform": "PS4",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/0/03/Red_Dead_Redemption_2_coverart.jpg",
+      "price": 39.99,
+      "description": "Experience the epic tale of outlaw Arthur Morgan in Red Dead Redemption 2, an action-adventure game set in the late 1800s."
+    },
+    {
+      "id": 7,
+      "category": "Video Games",
+      "name": "The Elder Scrolls V: Skyrim",
+      "platform": "PC",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/3/3a/The_Elder_Scrolls_V_-_Skyrim.jpg",
+      "price": 19.99,
+      "description": "Unleash the power of the Dragonborn in The Elder Scrolls V: Skyrim, an open-world RPG set in a world of magic and adventure."
+    },
+    {
+      "id": 8,
+      "category": "Video Games",
+      "name": "Halo: The Master Chief Collection",
+      "platform": "Xbox One",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/4/49/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Halo_The_Master_Chief_Collection.jpg",
+      "price": 39.99,
+      "description": "Relive the classic Halo trilogy with Halo: The Master Chief Collection, a collection of remastered first-person shooter games."
+    },
+    {
+      "id": 9,
+      "category": "Video Games",
+      "name": "Final Fantasy VII Remake",
+      "platform": "PS4",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/3/35/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Final_Fantasy_VII_Remake.jpg",
+      "price": 59.99,
+      "description": "Experience the epic tale of Cloud Strife in Final Fantasy VII Remake, a modern reimagining of the classic RPG."
+    },
+    {
+      "id": 10,
+      "category": "Video Games",
+      "name": "Assassin's Creed Valhalla",
+      "platform": "PC",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/2/26/AC_Valhalla_standard_edition.jpg",
+      "price": 59.99,
+      "description": "Join Eivor on a journey to build a new home in Assassin's Creed Valhalla, an action-adventure RPG set in Viking Age England."
+    }
+  ]
+}
